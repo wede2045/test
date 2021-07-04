@@ -1,2 +1,2 @@
-FROM gcr.io/flink-operator/flink-operator:latest
-MAINTAINER liyi
+FROM gcr.io/flink-operator/deployer:webhook-cert:latest
+MAINTAINER yfan
