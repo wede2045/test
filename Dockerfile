@@ -1,2 +1,2 @@
-FROM gcr.io/flink-operator/deployer:webhook-cert
+FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
 MAINTAINER yfan
