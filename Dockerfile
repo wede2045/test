@@ -1,2 +1,2 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
+FROM nvcr.io/nvidia/tensorflow:20.09-tf1-py3
 MAINTAINER yfan
