@@ -1,2 +1,2 @@
-FROM gcr.io/ynli-k8s/spark:v3.1.1
+FROM ghcr.io/googlecloudplatform/spark-operator
 MAINTAINER yfanq
