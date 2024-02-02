@@ -1,2 +1,2 @@
-FROM nvcr.io/nvidia/tensorflow:20.09-tf1-py3
+FROM gcr.io/ynli-k8s/spark:v3.1.1
 MAINTAINER yfanq
